@@ -15,8 +15,9 @@ backpropagation, and other concepts that are important for the model.
   - Matplotlib: '0.23.3'
   
 ## Experimental Results
-
 The training loss is 0.094 and the validation loss is 0.154.
+
+
 ![](results/loss.jpg)
 
 
